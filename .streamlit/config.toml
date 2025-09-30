@@ -1,14 +1,15 @@
-[theme]
-base = "dark"
-primaryColor = "#00E5FF"
-backgroundColor = "#0B0F14"
-secondaryBackgroundColor = "#121923"
-textColor = "#E6F1FF"
-font = "sans serif"
-
-[client]
-showErrorDetails = true
-
-[server]
-headless = true
-runOnSave = false
+[theme] 
+base = "dark" 
+primaryColor = "#00E5FF" 
+backgroundColor = "#0B0F14" 
+secondaryBackgroundColor = "#121923" 
+textColor = "#E6F1FF" 
+font = "sans serif" 
+ 
+[client] 
+showErrorDetails = true 
+ 
+[server] 
+headless = true 
+runOnSave = false 
+port = 8501 
